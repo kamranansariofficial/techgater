@@ -39,7 +39,7 @@
 						<p class="quote">Our aim is to provide best solution for every business and indivual to empower the online world.</p>
 						<div class="user- mt30">
 							<div class="media">
-								<div class="user-image bdr-radius"><img src="images/team/naveed.jpg" alt="girl" class="img-fluid" /></div>
+								<div class="user-image bdr-radius"><img src="images/team/Ceo and founder techgater Naveed ahmed.jpg" alt="Ceo and founder techgater Naveed ahmed" class="img-fluid" /></div>
 								<div class="media-body user-info v-center">
 									<h5>Naveed Ahmed</h5>
 									<p>Founder of <span>TECHGATER 	&nbsp; 	&nbsp;	&nbsp;</span></p>
@@ -48,7 +48,7 @@
 						</div>
 						<div class="user- mt30">
 							<div class="media">
-								<div class="user-image bdr-radius"><img src="images/team/team1.jpg" alt="girl" class="img-fluid" /></div>
+								<div class="user-image bdr-radius"><img src="images/team/co-founder techgater kamran haider ansari.jpg" alt="co-founder techgater kamran haider ansari" class="img-fluid" /></div>
 								<div class="media-body user-info v-center">
 									<h5>Kamran Haider</h5>
 									<p>Co-Founder of <span>TECHGATER</span></p>
@@ -200,7 +200,7 @@
 				<div class="col-lg-8 col-sm-8 mt60">
 					<div class="isotope_item hover-scale">
 						<div class="item-image">
-							<a href="#"><img src="images/portfolio/image-d.jpg" alt="image" class="img-fluid" /> </a>
+							<a href="#"><img src="images/portfolio/techgater amygos callitme amygos.com.png" alt="techgater amygos callitme amygos" class="img-fluid" /> </a>
 						</div>
 						<div class="item-info">
 							<h4><a href="#">Ecommerce Development</a></h4>
@@ -211,7 +211,7 @@
 				<div class="col-lg-4 col-sm-4 mt60">
 					<div class="isotope_item hover-scale">
 						<div class="item-image">
-							<a href="#"><img src="images/portfolio/image-1.jpg" alt="image" class="img-fluid" /> </a>
+							<a href="#"><img src="images/portfolio/techgater lahore pakistan nepalivivah .png" alt="techgater lahore pakistan nepalivivah" class="img-fluid" /> </a>
 						</div>
 						<div class="item-info">
 							<h4><a href="#">Creative App</a></h4>
@@ -222,7 +222,7 @@
 				<div class="col-lg-4 col-sm-4 mt60">
 					<div class="isotope_item hover-scale">
 						<div class="item-image">
-							<a href="#"><img src="images/portfolio/image-6.jpg" alt="image" class="img-fluid" /> </a>
+							<a href="#"><img src="images/portfolio/techgater lahore softwere spatay.png" alt="techgater lahore softwere spatay" class="img-fluid" /> </a>
 						</div>
 						<div class="item-info">
 							<h4><a href="#">Brochure Design</a></h4>
@@ -233,7 +233,7 @@
 				<div class="col-lg-8 col-sm-8 mt60">
 					<div class="isotope_item hover-scale">
 						<div class="item-image">
-							<a href="#"><img src="images/portfolio/image-c.jpg" alt="image" class="img-fluid" /> </a>
+							<a href="#"><img src="images/portfolio/techgater softwere lahore sportido.png" alt="techgater softwere lahore sportido" class="img-fluid" /> </a>
 						</div>
 						<div class="item-info">
 							<h4><a href="#">Icon Pack</a></h4>
@@ -261,19 +261,19 @@
 					<div class="row opl">
 						<ul>
 							<li>
-								<div class="clients-logo"><img src="images/portfolio/nepalivivah.png" width="120px" alt="text" class="img-fluid" /></div>
+								<div class="clients-logo"><img src="images/portfolio/nepalivivah.png" width="120px" alt="nepalivivah techgater" class="img-fluid" /></div>
 							</li>
 							<li>
-								<div class="clients-logo"><img src="images/portfolio/amygoz.png" alt="text" class="img-fluid" /></div>
+								<div class="clients-logo"><img src="images/portfolio/amygoz.png" alt="amygoz techgater" class="img-fluid" /></div>
 							</li>
 							<li>
-								<div class="clients-logo"><img src="images/portfolio/spatay.png" alt="text" class="img-fluid" /></div>
+								<div class="clients-logo"><img src="images/portfolio/spatay.png" alt="spatay techgater" class="img-fluid" /></div>
 							</li>
 							<li>
-								<div class="clients-logo"><img src="images/portfolio/phptravels.png" alt="text" class="img-fluid" /></div>
+								<div class="clients-logo"><img src="images/portfolio/phptravels.png" alt="phptravels techgater" class="img-fluid" /></div>
 							</li>
 							<li>
-								<div class="clients-logo"><img src="images/portfolio/wattba.png" alt="text" class="img-fluid" /></div>
+								<div class="clients-logo"><img src="images/portfolio/wattba.png" alt="wattba techgater" class="img-fluid" /></div>
 							</li>
 						</ul>
 					</div>
