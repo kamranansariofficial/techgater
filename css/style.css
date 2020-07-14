@@ -1,40 +1,3 @@
-/*Theme: Niwax - Web Design & Digital Marketing Agency HTML Template
-    Author: Rajesh-Doot
-    File Description: Main CSS file of the template*/
-/**Table of contents**
-    1. Default css
-    - Header section
-    - Hero section
-    - About section
-    - Service section
-    - Statistics section
-    - Portfolio Section
-    - Clients section
-    - Work category section
-    - Testimonial section
-    - Enquire form section
-    - Our office section
-    - Reviews section
-    - Footer section
-    2. About page
-    3. Team page
-    4. Portfolio page
-    5. Service page
-    6. Service details page
-    7. Pricing page
-    8. Case study page
-    9. Blog page
-    10.Contact page
-    11.404 page
-    12.Faq & accordion page
-    13.Freelance Homepage
-    14.Lead Generation Homepage
-    15.Help css
-    16.Gredient css
-    17.Dark mode css
-**/
-/*scrollbar theme*/
-/*toast*/
 #snackbar {
     visibility: hidden;
     min-width: 240px;
@@ -1666,3 +1629,7 @@ border: 1px solid #29294c;}
 .active-dark .res-menu .dropdown-menu { background-color: #161625;}
 .active-dark .res-menu .modal-content.full {background: #161625;}
 .active-dark .deep-dark{background: #161625;}
+.computer{height:300px;}
+.computer #gif{position:absolute;top:38.5%;left:50%;width:76%;height:174px;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);background-size:cover;z-index:15;z-index:0;-webkit-transition:all .3s ease;transition:all .3s ease;overflow:hidden;background-image:url(../images/portfolio/techgater-web-1.gif)}
+.computer img{position:absolute;width:100%;height:auto;z-index:1;transform:scale(1.2)} 
+

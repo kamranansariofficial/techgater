@@ -56,24 +56,27 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6 single-card-item graphic">
+        <div class="col-lg-4 col-sm-6 single-card-item website">
           <div class="isotope_item hover-scale">
-            <div class="item-image">
-              <a href="#"><img src="images/portfolio/image-2.jpg" alt="image" class="img-fluid"/> </a>
+            <div class="item-image text-center">
+            <a href="https://blochtransport.com"><img src="images/portfolio/bloch.png" alt="image" style="width:65%;padding:40px 0px" class="img-fluid"/> </a>
             </div>
             <div class="item-info">
-              <h4><a href="#">Brochure Design</a></h4>
-              <p>Graphic, Print</p>
+              <h4><a href="#">Bloch Transport</a></h4>
+              <p>Web Application</p>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 single-card-item website">
-          <div class="isotope_item hover-scale">
+          <div class="isotope_item">
             <div class="item-image">
-              <a href="#"><img src="images/portfolio/image-3.jpg" alt="image" class="img-fluid"/> </a>
+            <div class="computer">
+				<img src="images/portfolio/techgater-mokup.png" alt="MacBook Computer Apple">
+				<div id="gif"></div>
+			</div>
             </div>
             <div class="item-info">
-              <h4><a href="#">Ecommerce Development</a></h4>
+              <h4><a href="#">Hotel Gater</a></h4>
               <p>Web Application</p>
             </div>
           </div>
