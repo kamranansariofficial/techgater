@@ -39,63 +39,63 @@
           <div class="pricing-table mt60">
             <div class="inner-table">
               <img src="images/icons/plan-1.svg" alt="Personal"/>
-              <span class="title">Basic</span>
-              <p class="title-sub">Great For Small Business</p>
-              <h2><sup>$</sup> 100</h2>
-              <!-- <p class="duration">Monthly Package</p> -->
+              <span class="title">HTML Website</span>
+              <p class="title-sub">Great For Large Business</p>
+              <h2><sup>$</sup> 120</h2>
+              <p class="duration">HTML, CSS, BS, JS, Jquery</p>
               <div class="details">
                 <ul>
-                  <li></li>
-                  <li>2.100 Keywords</li>
-                  <li>One Way Link Building</li>
-                  <li>5 Free Optimization</li>
-                  <li>3 Press Releases</li>
+                  <li>Datatable & Charts</li>
+                  <li>Animations</li>
+                  <li>SEO</li>
+                  <li>Content Uplaod</li>
+                  <li>Deploy</li>
                 </ul>
               </div>
             </div>
-            <a href="#" class="btn-main bg-btn lnk">Choose Plane <i class="fas fa-chevron-right fa-icon"></i> <span class="circle"></span></a>
+            <a href="get-quote.php" class="btn-main bg-btn lnk">Choose Plane <i class="fas fa-chevron-right fa-icon"></i> <span class="circle"></span></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="pricing-table best-plan mt60">
             <div class="inner-table">
               <img src="images/icons/plan-2.svg" alt="Advance"/>
-              <span class="title">Advance</span>
-              <p class="title-sub">Great For Small Business</p>
-              <h2><sup>$</sup> 69.99</h2>
-              <p class="duration">Monthly Package</p>
+              <span class="title">React + Next Web App</span>
+              <p class="title-sub">Great For Large Business</p>
+              <h2><sup>$</sup> 300</h2>
+              <p class="duration">MaterialUI, Axios, Firebase, ReactStrap</p>
               <div class="details">
                 <ul>
-                  <li>Social Media Marketing</li>
-                  <li>2.100 Keywords</li>
-                  <li>One Way Link Building</li>
-                  <li>5 Free Optimization</li>
-                  <li>3 Press Releases</li>
+                  <li>10 Reuseable Components</li>
+                  <li>Api Integration</li>
+                  <li>SEO</li>
+                  <li>Redux</li>
+                  <li>Deploy</li>
                 </ul>
               </div>
             </div>
-            <a href="#" class="btn-main bg-btn3 lnk">Choose Plane <i class="fas fa-chevron-right fa-icon"></i> <span class="circle"></span></a>
+            <a href="get-quote.php" class="btn-main bg-btn3 lnk">Choose Plane <i class="fas fa-chevron-right fa-icon"></i> <span class="circle"></span></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="pricing-table mt60">
             <div class="inner-table">
               <img src="images/icons/plan-3.svg" alt="Ultimate"/>
-              <span class="title">Ultimate</span>
-              <p class="title-sub">Great For Small Business</p>
-              <h2><sup>$</sup> 69.99</h2>
-              <p class="duration">Monthly Package</p>
+              <span class="title">Vue Web Base App</span>
+              <p class="title-sub">Great For Large Business</p>
+              <h2><sup>$</sup> 300</h2>
+              <p class="duration">Vuetify, VueX, Element, Chart, Firebase</p>
               <div class="details">
                 <ul>
-                  <li>Social Media Marketing</li>
-                  <li>2.100 Keywords</li>
-                  <li>One Way Link Building</li>
-                  <li>5 Free Optimization</li>
-                  <li>3 Press Releases</li>
+                  <li>10 Reuseable Components</li>
+                  <li>Api Integration</li>
+                  <li>SEO</li>
+                  <li>DataTables & Charts</li>
+                  <li>Deploy</li>
                 </ul>
               </div>
             </div>
-            <a href="#" class="btn-main bg-btn lnk">Choose Plane <i class="fas fa-chevron-right fa-icon"></i> <span class="circle"></span></a>
+            <a href="get-quote.php" class="btn-main bg-btn lnk">Choose Plane <i class="fas fa-chevron-right fa-icon"></i> <span class="circle"></span></a>
           </div>
         </div>
       </div>
