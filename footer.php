@@ -49,13 +49,13 @@
 					<div class="col-lg-3 col-sm-6">
 						<h5>Company</h5>
 						<ul class="footer-address-list link-hover">
-							<li><a href="about.html">About us</a></li>
-							<li><a href="service.html">Services</a></li>
-							<li><a href="portfolio.html">Portfolio</a></li>
-							<li><a href="blog-grid.html">Blogs</a></li>
+							<li><a href="about">About us</a></li>
+							<li><a href="service">Services</a></li>
+							<li><a href="portfolio">Portfolio</a></li>
+							<li><a href="pricing">Pricing</a></li>
 						</ul>
 					</div>
-					<div class="col-lg-3 col-sm-6">
+					<!-- <div class="col-lg-3 col-sm-6">
 						<h5>Service</h5>
 						<ul class="footer-address-list link-hover">
 							<li><a href="javascript:void(0)">Logo & Branding</a></li>
@@ -65,11 +65,11 @@
 							<li><a href="javascript:void(0)">Pay-Per-Click</a></li>
 							<li><a href="javascript:void(0)">Social Media Marketing</a></li>
 						</ul>
-					</div>
+					</div> -->
 					<div class="col-lg-3 col-sm-6">
 						<h5>Support</h5>
 						<ul class="footer-address-list link-hover">
-							<li><a href="get-quote.html">Contact</a></li>
+							<li><a href="get-quote">Contact</a></li>
 							<li><a href="javascript:void(0)">Privacy Policy</a></li>
 							<li><a href="javascript:void(0)">Sitemap</a></li>
 						</ul>
@@ -208,6 +208,8 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 setTimeout(function(){
 	$('iframe').contents().find("a[tabindex=-1]").css('display','none')
+	
+	 
 },1000)
 
 </script>

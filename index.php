@@ -7,7 +7,7 @@
 					<div class="col-lg-6 v-center">
 						<div class="header-heading">
 							<h1>Creative Web Development Company</h1>
-							<p>Techgater is Lahore, Pakistan based software company. our aim is to provide best solution for every business and indivual to empower the online world.</p>
+							<p>Techgater is Lahore, Pakistan based software company. our aim is to provide best solution for every business and individual to empower the online world.</p>
 							<a href="#" class="btn-main bg-btn lnk">View Showcase <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
 						</div>
 					</div>
@@ -36,7 +36,7 @@
 						<h2>About Agency</h2>
 						<p>Techgater is Lahore, Pakistan based software company.
 						We understand, analyze and strategize on the existing and sparse tools/platforms for various aspects of life. Our aim is to bring oneness, and most of all make technology useable by humans, and that does not mean creating beautiful designs alone. </p>
-						<p class="quote">Our aim is to provide best solution for every business and indivual to empower the online world.</p>
+						<p class="quote">Our aim is to provide best solution for every business and individual to empower the online world.</p>
 						<div class="user- mt30">
 							<div class="media">
 								<div class="user-image bdr-radius"><img src="images/team/Ceo and founder techgater Naveed ahmed.jpg" alt="Ceo and founder techgater Naveed ahmed" class="img-fluid" /></div>
@@ -200,10 +200,21 @@
 				<div class="col-lg-8 col-sm-8 mt60">
 					<div class="isotope_item hover-scale">
 						<div class="item-image">
-							<a href="#"><img src="images/portfolio/techgater amygos callitme amygos.com.png" alt="techgater amygos callitme amygos" class="img-fluid" /> </a>
+							<a href="https://www.amygoz.com/" target="_blank"><img src="images/portfolio/techgater amygos callitme amygos.com.png" alt="techgater amygos callitme amygos" class="img-fluid" /> </a>
 						</div>
 						<div class="item-info">
-							<h4><a href="#">Ecommerce Development</a></h4>
+							<h4><a href="https://www.amygoz.com/" target="_blank">Amygoz</a></h4>
+							<p>Website Development</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-4 mt60">
+					<div class="isotope_item hover-scale">
+						<div class="item-image">
+							<a href="https://mobile.nepalivivah.com/#/" target="_blank"><img src="images/portfolio/techgater lahore pakistan nepalivivah .png" alt="techgater lahore pakistan nepalivivah" class="img-fluid" /> </a>
+						</div>
+						<div class="item-info">
+							<h4><a href="https://mobile.nepalivivah.com/#/" target="_blank">Nepalivivah</a></h4>
 							<p>Web Application</p>
 						</div>
 					</div>
@@ -211,33 +222,22 @@
 				<div class="col-lg-4 col-sm-4 mt60">
 					<div class="isotope_item hover-scale">
 						<div class="item-image">
-							<a href="#"><img src="images/portfolio/techgater lahore pakistan nepalivivah .png" alt="techgater lahore pakistan nepalivivah" class="img-fluid" /> </a>
+							<a href="https://spatay.me/" target="_blank"><img src="images/portfolio/techgater lahore softwere spatay.png" alt="techgater lahore softwere spatay" class="img-fluid" /> </a>
 						</div>
 						<div class="item-info">
-							<h4><a href="#">Creative App</a></h4>
-							<p>iOs, Android</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-sm-4 mt60">
-					<div class="isotope_item hover-scale">
-						<div class="item-image">
-							<a href="#"><img src="images/portfolio/techgater lahore softwere spatay.png" alt="techgater lahore softwere spatay" class="img-fluid" /> </a>
-						</div>
-						<div class="item-info">
-							<h4><a href="#">Brochure Design</a></h4>
-							<p>Graphic, Print</p>
+							<h4><a href="https://spatay.me/" target="_blank">Spatay Traveling App</a></h4>
+							<p>Web Application</p>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-8 col-sm-8 mt60">
 					<div class="isotope_item hover-scale">
 						<div class="item-image">
-							<a href="#"><img src="images/portfolio/techgater softwere lahore sportido.png" alt="techgater softwere lahore sportido" class="img-fluid" /> </a>
+							<a href="http://sportido.techgater.com/" target="_blank"><img src="images/portfolio/techgater softwere lahore sportido.png" alt="techgater softwere lahore sportido" class="img-fluid" /> </a>
 						</div>
 						<div class="item-info">
-							<h4><a href="#">Icon Pack</a></h4>
-							<p>iOs, Android</p>
+							<h4><a href="http://sportido.techgater.com/" target="_blank">Sportido Admin Dashboard</a></h4>
+							<p>Web Application</p>
 						</div>
 					</div>
 				</div>
@@ -501,7 +501,7 @@
 						<h2 class="mt0">Have Question? Write a Message</h2>
 					</div>
 					<div class="form-block">
-						<form method="post" name="feedback-form">
+						<form method="post" name="feedback-form" id='form-home'>
 							<div class="fieldsets row">
 								<div class="col-md-6"><input type="text" placeholder="Full Name" id="name" name="name" required></div>
 								<div class="col-md-6"><input type="email" placeholder="Email Address" id="email" required name="email"></div>
@@ -549,7 +549,7 @@
 						<div class="office-text text-center">
 							<h4>Lahore, Pakistan</h4>
 							<p class="pr-0">Defence Chowk Walton Road</p>
-							<a href="javascript:void(0)" target="blank" class="btn-outline">View on Map <i class="fas fa-chevron-right fa-icon"></i></a>
+							<a href="https://goo.gl/maps/CUQqsw3ua5zT7o7X6" target="blank" class="btn-outline">View on Map <i class="fas fa-chevron-right fa-icon"></i></a>
 						</div>
 					</div>
 				</div>

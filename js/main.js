@@ -74,7 +74,43 @@ File Description: Main JS file of the template*/
 	
 	
 	// Form validation	
-	$("form[name='feedback-form']").validate({
+	$("#form-home").validate({
+		// Specify validation rules
+		rules: {			
+			name: "required",
+			email: {
+				required: true,				
+				email: true
+			},
+			phone: {
+				required: true,
+				minlength: 10
+			},
+			subject: "required",
+			message: {
+				required: true,
+				minlength: 40
+			}
+		},
+		// Specify validation error messages
+		messages: {
+			name: "Please enter your full name",
+			phone: {
+				required: "Please provide your phone number",
+				minlength: "Your phone number must be at least 10 characters long"
+			},
+			email: "Please enter a valid email address",
+			subject: "Please enter your subject",
+			message: {
+				required: "Please enter message",
+				minlength: "Message must be at least 40 characters long"
+			}
+		},		
+		submitHandler: function (form) {
+			form.submit();
+		}
+	});	
+	$("#form-getquote").validate({
 		// Specify validation rules
 		rules: {			
 			name: "required",
