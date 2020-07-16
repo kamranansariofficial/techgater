@@ -45,23 +45,23 @@
 					<ul class="mr-auto"></ul>
 					<ul class="navbar-nav d-menu">
 						<li class="nav-item dropdown">
-							<a class="nav-link " href="index.php" id="homepage1" >Home</a>
+							<a class="nav-link " href="index" id="homepage1" >Home</a>
 						
 						</li>
-						<li class="nav-item"> <a class="nav-link" href="about.php">About </a> </li>
+						<li class="nav-item"> <a class="nav-link" href="about">About </a> </li>
 						<li class="nav-item dropdown">
-							<a class="nav-link" href="service.php" id="Services" >Services</a>
+							<a class="nav-link" href="service" id="Services" >Services</a>
 						</li>
 						<li class="nav-item dropdown">
-							<a class="nav-link" href="portfolio.php" id="Services" >Portfolio</a>
+							<a class="nav-link" href="portfolio" id="Services" >Portfolio</a>
 						</li>
 						<li class="nav-item dropdown">
-							<a class="nav-link" href="pricing.php" id="Pages">Pricing</a>
+							<a class="nav-link" href="pricing" id="Pages">Pricing</a>
 						</li>
 						<li class="nav-item dropdown">
-							<a class="nav-link" href="team.php" id="Pages">Our Team</a>
+							<a class="nav-link" href="team" id="Pages">Our Team</a>
 						</li>
-						<li class="nav-item"> <a class="nav-link custom-btn lnk btn-main bg-btn" href="get-quote.php">Get A Quote <span class="circle"></span></a> </li>
+						<li class="nav-item"> <a class="nav-link custom-btn lnk btn-main bg-btn" href="get-quote">Get A Quote <span class="circle"></span></a> </li>
 					</ul>
 				</div>
 				<div class="mobile-menu">
