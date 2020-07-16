@@ -45,7 +45,7 @@
 					<ul class="mr-auto"></ul>
 					<ul class="navbar-nav d-menu">
 						<li class="nav-item dropdown">
-							<a class="nav-link " href="index" id="homepage1" >Home</a>
+							<a class="nav-link " href="/" id="homepage1" >Home</a>
 						
 						</li>
 						<li class="nav-item"> <a class="nav-link" href="about">About </a> </li>
