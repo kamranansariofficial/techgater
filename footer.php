@@ -208,7 +208,7 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 setTimeout(function(){
 	$('iframe').contents().find("a[tabindex=-1]").css('display','none')
-	alert("hello world apc")
+	alert("hello")
 	 
 },1000)
 
