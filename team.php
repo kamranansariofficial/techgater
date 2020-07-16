@@ -23,7 +23,7 @@
   </section>
   <!--End Breadcrumb Area-->
   <!--Start Team Leaders-->
-  <section class="team bg-gradient99 pad-tb">
+ <!--  <section class="team bg-gradient99 pad-tb">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-8">
@@ -64,7 +64,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!--End Team Leaders-->
   <!--Start Team Members-->
   <section class="team pad-tb">
@@ -74,48 +74,48 @@
           <div class="common-heading ptag">
             <span>We Are Awesome</span>
             <h2>Our Team Members</h2>
-            <p class="mb0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <!-- <p class="mb0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> -->
           </div>
         </div>
       </div>
       <div class="row">
         <div class="col-lg-3 col-sm-6">
           <div class="full-image-card hover-scale">
-            <div class="image-div"><a href="#"><img src="images/team/team-1.jpg" alt="team" class="img-fluid"/></a></div>
+            <div class="image-div"><a href="#"><img src="images/team/Ceo and founder techgater Naveed ahmed.jpg" alt="Ceo and founder techgater Naveed ahmed.jpg" class="img-fluid"/></a></div>
             <div class="info-text-block">
-              <h4><a href="#">Shakita Daoust</a></h4>
-              <p>UI/UX Designer</p>
+              <h4><a href="#">Naveed Ahmed</a></h4>
+              <p>CEO of Techgater</p>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-sm-6">
           <div class="full-image-card hover-scale">
-            <div class="image-div"><a href="#"><img src="images/team/team-2.jpg" alt="team" class="img-fluid"/></a></div>
+            <div class="image-div"><a href="#"><img src="images/team/co-founder techgater kamran haider ansari .jpg" alt="co-founder techgater kamran haider ansari.jpg" class="img-fluid"/></a></div>
             <div class="info-text-block">
-              <h4><a href="#">Gerard Licari</a></h4>
-              <p>UI/UX Designer</p>
+              <h4><a href="#">Kamran Haider</a></h4>
+              <p>Web App Developer</p>
+            </div>
+          </div>
+        </div>
+         <div class="col-lg-3 col-sm-6">
+          <div class="full-image-card hover-scale">
+            <div class="image-div"><a href="#"><img src="images/team/techgater UI Ux designer majid hussain .png" alt="techgater UI Ux designer majid hussain .png" class="img-fluid"/></a></div>
+            <div class="info-text-block">
+              <h4><a href="#">Majid Hussain</a></h4>
+              <p>UI UX Designer</p>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-sm-6">
           <div class="full-image-card hover-scale">
-            <div class="image-div"><a href="#"><img src="images/team/team-3.jpg" alt="team" class="img-fluid"/></a></div>
+            <div class="image-div"><a href="#"><img src="images/team/Front-end developer techgater sanaver shahzad sunny .png" alt="Front-end developer techgater sanaver shahzad sunny .png" class="img-fluid"/></a></div>
             <div class="info-text-block">
-              <h4><a href="#">Teisha Yearta</a></h4>
-              <p>Web Developer</p>
+              <h4><a href="#">Sanaver Shahzad</a></h4>
+              <p>Front-end Web Developer</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-sm-6">
-          <div class="full-image-card hover-scale">
-            <div class="image-div"><a href="#"><img src="images/team/team-4.jpg" alt="team" class="img-fluid"/></a></div>
-            <div class="info-text-block">
-              <h4><a href="#">Herman Running</a></h4>
-              <p>Web Developer</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-sm-6">
+      <!--   <div class="col-lg-3 col-sm-6">
           <div class="full-image-card hover-scale">
             <div class="image-div"><a href="#"><img src="images/team/team-5.jpg" alt="team" class="img-fluid"/></a></div>
             <div class="info-text-block">
@@ -150,7 +150,7 @@
               <p>Graphic Desinger</p>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </section>

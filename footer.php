@@ -1,5 +1,6 @@
 <!--Start Footer-->
 <footer>
+    
 		<div class="footer-row1">
 			<div class="container">
 				<div class="row">
@@ -115,23 +116,23 @@
             <nav class="navbar p0">
               <ul class="navbar-nav">
                 <li class="nav-item dropdown">
-                  <a class="nav-link" href="index.html" id="homepage">Home</a>
+                  <a class="nav-link" href="/" id="homepage">Home</a>
                   
                 </li>
-                <li class="nav-item"> <a class="nav-link" href="about.html">About</a></li>
+                <li class="nav-item"> <a class="nav-link" href="about">About</a></li>
                 <li class="nav-item dropdown">
-                  <a class="nav-link" href="service.html" id="Services2" >Services</a>
+                  <a class="nav-link" href="service" id="Services2" >Services</a>
                 </li>
                 <li class="nav-item dropdown">
-                  <a class="nav-link" href="portfolio.html" id="Portfolio2">Portfolio</a>
+                  <a class="nav-link" href="portfolio" id="Portfolio2">Portfolio</a>
                 </li>
                 <li class="nav-item dropdown">
-                  <a class="nav-link" href="pricing.html" id="Pages2"> Pricing </a>
+                  <a class="nav-link" href="pricing" id="Pages2"> Pricing </a>
                 </li>
                 <li class="nav-item dropdown">
-                  <a class="nav-link " href="team.html" id="Blog2">Our Team</a>
+                  <a class="nav-link " href="team" id="Blog2">Our Team</a>
                 </li>
-                <li> <a class="custom-btn lnk btn-main bg-btn" href="#">Get A Quote<span class="circle"></span></a></li>
+                <li> <a class="custom-btn lnk btn-main bg-btn" href="get-quote">Get A Quote<span class="circle"></span></a></li>
               </ul>
             </nav>
           </div>
@@ -194,5 +195,24 @@
             });
           });
       </script>
+      <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5f0eb8cc5b59f94722bac158/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+setTimeout(function(){
+    $('iframe').css({
+    "left":"20px!important",
+    "right":"auto!important"
+    })
+},1000)
+</script>
+<!--End of Tawk.to Script-->
 </body>
 </html>
