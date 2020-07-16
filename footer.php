@@ -208,8 +208,6 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 setTimeout(function(){
 	$('iframe').contents().find("a[tabindex=-1]").css('display','none')
-	alert("kamran")
-	 
 },1000)
 
 </script>
