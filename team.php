@@ -110,8 +110,8 @@
           <div class="full-image-card hover-scale">
             <div class="image-div"><a href="#"><img src="images/team/front-end web developer techgater sanaver shahzad.png" alt="front-end web developer techgater sanaver shahzad" class="img-fluid"/></a></div>
             <div class="info-text-block">
-              <h4><a href="#">Naveed Ahmed</a></h4>
-              <p>CEO of Techgater</p>
+              <h4><a href="#">Sanaver Shahzad</a></h4>
+              <p>Front-end Developer</p>
             </div>
           </div>
         </div>
