@@ -76,7 +76,8 @@
                 <span><i class="fab fa-skype"></i> Skype:</span>
                 <div class="info-body">
                   <p>We Are Online: Monday – Friday, 9 am to 5 pm</p>
-                  <a href="skype:niwax.company?call">niwax.company</a>
+                  <!-- <a href="skype:niwax.company?call">niwax.company</a> -->
+                  <a href="https://wa.me/923006634785" target="_blank">Send Message</a>
                 </div>
               </div>
             </div>

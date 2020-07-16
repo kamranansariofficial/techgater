@@ -206,12 +206,14 @@ s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
-setTimeout(function(){
-    $('iframe').css({
-    "left":"20px!important",
-    "right":"auto!important"
-    })
-},1000)
+
+  var iframeBody = $('iframe');
+  console.log(iframeBody)
+// setTimeout(function(){
+//     $('#contentContainer a[tabindex=-1]').css({
+//    "display":"none!important",
+//     })
+// },10000)
 </script>
 <!--End of Tawk.to Script-->
 </body>

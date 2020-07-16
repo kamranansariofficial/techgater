@@ -1,16 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-	
-<!-- Mirrored from www.rajeshdoot.com/demo/niwax/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Jun 2020 08:13:09 GMT -->
 <head>
-		<meta charset="utf-8" />
-		<title>Techgater - Web Design &amp; Development Agency</title>
-		<meta name="description" content="Creative Agency, Marketing Agency Template">
-		<meta name="keywords" content="Creative Agency, Marketing Agency, techgater">
-		<meta name="author" content="Kamran Haider">
-		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="mobile-web-app-capable" content="yes">
+		<title>Techgater - Web Design &amp; Development Agency</title>
+		<base href="https://techgater.com/">
+		<meta name="msvalidate.01" content="0C312F1E2E203F1B104B546B6682F9ED" />
+		<meta name="title" content="Techgater is Lahore, Pakistan based softwere company">
+		<meta name="author" content="Techgater">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<meta name="theme-color" content="#c7ecff">
+		<meta name="description" content="Techgater is Lahore, Pakistan Based softwere company providing high-end website and web app development services. We build best quality, user-friendly and responsive custom Design Websites & dashboard.">
+		<meta name="keywords" content="Techgater,Techgater website agency,techgater softwere company, techgater lahore based website agency,lahore based softwere company techgater,Techgater React Developer,Teachgater vue developer, Techgater web development, techgater web app development, techgater agency, techgater company,techgater lahore,techgater pakistan">
+		<meta property="og:url" content="https://techgater.com/">
+		<meta property="og:site_name" content="Techgater">
+		<meta name="title" content="Techgater is Lahore, Pakistan based softwere company">
+		<meta name="description" content="Techgater is Lahore, Pakistan Based softwere company providing high-end website and web app development services. We build best quality, user-friendly and responsive custom Design Websites & dashboard.">
+		<meta name="twitter:url" content="https://techgater.com/">
+		<meta name="twitter:site" content="Techgater">
+		<meta name="twitter:description" content="Techgater is Lahore, Pakistan Based softwere company providing high-end website and web app development services. We build best quality, user-friendly and responsive custom Design Websites & dashboard.">
+
 		<!--website-favicon-->
 		<link rel="icon" type="image/png" href="images/favicon.png">
 		<!--plugin-css-->
