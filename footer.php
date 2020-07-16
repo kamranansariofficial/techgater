@@ -207,11 +207,9 @@ s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
 setTimeout(function(){
-    $('iframe').css({
-    "left":"20px!important",
-    "right":"auto!important"
-    })
+	$('iframe').contents().find("a[tabindex=-1]").css('display','none')
 },1000)
+
 </script>
 <!--End of Tawk.to Script-->
 </body>
