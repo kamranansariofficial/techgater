@@ -36,15 +36,14 @@
           <div class="filters">
             <ul class="filter-menu">
               <li data-filter="*" class="is-checked">All</li>
-              <li data-filter=".website">Website</li>
-              <li data-filter=".app">Mobile App</li>
-              <li data-filter=".graphic">Graphic</li>
+              <li data-filter=".website">Web Apps</li>
+              <li data-filter=".app">Graphic</li>
             </ul>
           </div>
         </div>
       </div>
       <div class="row card-list">
-  <div class="col-lg-4 col-md-6 grid-sizer"></div>
+      <div class="col-lg-4 col-md-6 grid-sizer"></div>
         <div class="col-lg-4 col-sm-6 single-card-item app">
           <div class="isotope_item hover-scale">
             <div class="item-image">
@@ -53,6 +52,28 @@
             <div class="item-info">
               <h4><a href="#">Creative App</a></h4>
               <p>ios, design</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 single-card-item app">
+          <div class="isotope_item hover-scale">
+            <div class="item-image">
+              <a href="#"><img src="images/portfolio/image-4.jpg" alt="image"  class="img-fluid"/> </a>
+            </div>
+            <div class="item-info">
+              <h4><a href="#">Icon Pack</a></h4>
+              <p>Android & iOs, Design</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-8 col-sm-6 single-card-item website">
+          <div class="isotope_item">
+            <div class="item-image">
+				<img src="images/portfolio/explore.png" alt="explore" class="img-fluid">
+            </div>
+            <div class="item-info">
+              <h4><a href="#">Hotel Gater</a></h4>
+              <p>Web Application</p>
             </div>
           </div>
         </div>
@@ -67,46 +88,11 @@
             </div>
           </div>
         </div>
+        
         <div class="col-lg-4 col-sm-6 single-card-item website">
-          <div class="isotope_item">
-            <div class="item-image">
-            <div class="computer">
-				<img src="images/portfolio/techgater-mokup.png" alt="MacBook Computer Apple">
-				<div id="gif"></div>
-			</div>
-            </div>
-            <div class="item-info">
-              <h4><a href="#">Hotel Gater</a></h4>
-              <p>Web Application</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 single-card-item app">
           <div class="isotope_item hover-scale">
             <div class="item-image">
-              <a href="#"><img src="images/portfolio/image-4.jpg" alt="image" class="img-fluid"/> </a>
-            </div>
-            <div class="item-info">
-              <h4><a href="#">Icon Pack</a></h4>
-              <p>Android & iOs, Design</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 single-card-item graphic">
-          <div class="isotope_item hover-scale">
-            <div class="item-image">
-              <a href="#"><img src="images/portfolio/image-5.jpg" alt="image" class="img-fluid"/> </a>
-            </div>
-            <div class="item-info">
-              <h4><a href="#">Smart Watch</a></h4>
-              <p>UI/UX Design</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 single-card-item graphic">
-          <div class="isotope_item hover-scale">
-            <div class="item-image">
-              <a href="#"><img src="images/portfolio/image-6.jpg" alt="image" class="img-fluid"/> </a>
+            <a href="#"><img src="images/portfolio/techgater lahore softwere spatay.png" alt="image" class="img-fluid"/> </a>
             </div>
             <div class="item-info">
               <h4><a href="#">Brochure Design</a></h4>
@@ -114,10 +100,10 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6 single-card-item website">
+        <div class="col-lg-8 col-sm-6 single-card-item website">
           <div class="isotope_item hover-scale">
             <div class="item-image">
-              <a href="#"><img src="images/portfolio/image-7.jpg" alt="image" class="img-fluid"/> </a>
+              <a href="#"><img src="images/portfolio/techgater softwere lahore sportido.png" alt="image" class="img-fluid"/> </a>
             </div>
             <div class="item-info">
               <h4><a href="#">Packaging Design</a></h4>
@@ -125,10 +111,10 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6 single-card-item app">
+        <div class="col-lg-4 col-sm-6 single-card-item website">
           <div class="isotope_item hover-scale">
             <div class="item-image">
-              <a href="#"><img src="images/portfolio/image-8.jpg" alt="image" class="img-fluid"/> </a>
+              <a href="#"><img src="images/portfolio/techgater lahore pakistan nepalivivah .png" alt="image" class="img-fluid"/> </a>
             </div>
             <div class="item-info">
               <h4><a href="#">Restaurant App</a></h4>
@@ -136,10 +122,10 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6 single-card-item  website">
+        <div class="col-lg-8 col-sm-6 single-card-item  website">
           <div class="isotope_item hover-scale">
             <div class="item-image">
-              <a href="#"><img src="images/portfolio/image-9.jpg" alt="image" class="img-fluid"/> </a>
+              <a href="#"><img src="images/portfolio/techgater amygos callitme amygos.com.png" alt="image" class="img-fluid"/> </a>
             </div>
             <div class="item-info">
               <h4><a href="#">Portfolio Website</a></h4>
