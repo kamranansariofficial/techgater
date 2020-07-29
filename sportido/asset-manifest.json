@@ -1,29 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7f99ff9.chunk.css",
-    "main.js": "/static/js/main.b9cee301.chunk.js",
-    "main.js.map": "/static/js/main.b9cee301.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.92ee656d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.92ee656d.js.map",
-    "static/css/2.bf0413c3.chunk.css": "/static/css/2.bf0413c3.chunk.css",
-    "static/js/2.d001f2e0.chunk.js": "/static/js/2.d001f2e0.chunk.js",
-    "static/js/2.d001f2e0.chunk.js.map": "/static/js/2.d001f2e0.chunk.js.map",
+    "main.css": "/static/css/main.d4311e7b.chunk.css",
+    "main.js": "/static/js/main.0cd03376.chunk.js",
+    "main.js.map": "/static/js/main.0cd03376.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.afd0f87d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.afd0f87d.js.map",
+    "static/css/2.06b08db3.chunk.css": "/static/css/2.06b08db3.chunk.css",
+    "static/js/2.f05a6ab7.chunk.js": "/static/js/2.f05a6ab7.chunk.js",
+    "static/js/2.f05a6ab7.chunk.js.map": "/static/js/2.f05a6ab7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fd7a7289c5112fff94d9cc5ffc53f1ff.js": "/precache-manifest.fd7a7289c5112fff94d9cc5ffc53f1ff.js",
+    "precache-manifest.31671139a8e62d05447f0a17bc6396eb.js": "/precache-manifest.31671139a8e62d05447f0a17bc6396eb.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.bf0413c3.chunk.css.map": "/static/css/2.bf0413c3.chunk.css.map",
-    "static/css/main.a7f99ff9.chunk.css.map": "/static/css/main.a7f99ff9.chunk.css.map",
-    "static/js/2.d001f2e0.chunk.js.LICENSE.txt": "/static/js/2.d001f2e0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/Montserrat-SemiBold.c641dbee.ttf",
-    "static/media/image 12.png": "/static/media/image 12.0e2270d4.png",
-    "static/media/logo.png": "/static/media/logo.4f72e357.png",
-    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+    "static/css/2.06b08db3.chunk.css.map": "/static/css/2.06b08db3.chunk.css.map",
+    "static/css/main.d4311e7b.chunk.css.map": "/static/css/main.d4311e7b.chunk.css.map",
+    "static/js/2.f05a6ab7.chunk.js.LICENSE.txt": "/static/js/2.f05a6ab7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Roboto-Regular.11eabca2.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.92ee656d.js",
-    "static/css/2.bf0413c3.chunk.css",
-    "static/js/2.d001f2e0.chunk.js",
-    "static/css/main.a7f99ff9.chunk.css",
-    "static/js/main.b9cee301.chunk.js"
+    "static/js/runtime-main.afd0f87d.js",
+    "static/css/2.06b08db3.chunk.css",
+    "static/js/2.f05a6ab7.chunk.js",
+    "static/css/main.d4311e7b.chunk.css",
+    "static/js/main.0cd03376.chunk.js"
   ]
 }
