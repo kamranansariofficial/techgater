@@ -115,6 +115,24 @@
             </div>
           </div>
         </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="full-image-card hover-scale">
+            <div class="image-div"><a href="#"><img src="images/team/front-end web developer techgater asim ameer.png" alt="front-end web developer techgater asim ameer" class="img-fluid"/></a></div>
+            <div class="info-text-block">
+              <h4><a href="#">Asim Ameer</a></h4>
+              <p>UI/UX Desinger</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="full-image-card hover-scale">
+            <div class="image-div"><a href="#"><img src="images/team/UI UX web developer techgater abdul qadir.png" alt="front-end web developer techgater asim ameer" class="img-fluid"/></a></div>
+            <div class="info-text-block">
+              <h4><a href="#">Abdul Qadir</a></h4>
+              <p>Back-end Developer</p>
+            </div>
+          </div>
+        </div>
       <!--   <div class="col-lg-3 col-sm-6">
           <div class="full-image-card hover-scale">
             <div class="image-div"><a href="#"><img src="images/team/team-5.jpg" alt="team" class="img-fluid"/></a></div>
