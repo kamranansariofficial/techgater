@@ -39,7 +39,7 @@
 						<p class="quote">Our aim is to provide best solution for every business and individual to empower the online world.</p>
 						<div class="user- mt30">
 							<div class="media">
-								<div class="user-image bdr-radius"><img src="images/team/Ceo and founder techgater Naveed ahmed.jpg" alt="Ceo and founder techgater Naveed ahmed" class="img-fluid" /></div>
+								<div class="user-image bdr-radius"><img src="images/team/Ceo and founder techgater Naveed ahmed.jpg" alt=" founder techgater Naveed ahmed" class="img-fluid" /></div>
 								<div class="media-body user-info v-center">
 									<h5>Naveed Ahmed</h5>
 									<p>Founder of <span>TECHGATER 	&nbsp; 	&nbsp;	&nbsp;</span></p>
@@ -48,10 +48,10 @@
 						</div>
 						<div class="user- mt30">
 							<div class="media">
-								<div class="user-image bdr-radius"><img src="images/team/co-founder techgater kamran haider ansari.jpg" alt="co-founder techgater kamran haider ansari" class="img-fluid" /></div>
+								<div class="user-image bdr-radius"><img src="images/team/co-founder techgater kamran haider ansari.jpg" alt="ceo techgater kamran haider ansari" class="img-fluid" /></div>
 								<div class="media-body user-info v-center">
 									<h5>Kamran Haider</h5>
-									<p>Co-Founder of <span>TECHGATER</span></p>
+									<p>CEO of <span>TECHGATER</span></p>
 								</div>
 							</div>
 						</div>
