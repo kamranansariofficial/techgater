@@ -484,6 +484,87 @@
 									</div>
 								</div>
 							</div>
+							
+						</div>
+						<div class="testimonial-card">
+							<div class="t-text">
+								<br>
+								<br>
+								<br>
+								<p>Great job. He created my component and now I can present something that looks great!!! 
+									<br>
+								Thank you.</p>
+							</div>
+							<div class="client-thumbs mt30">
+								<div class="media v-center">
+									<div class="user-image bdr-radius"><img src="images/client/user.png" alt="girl" class="img-fluid" /></div>
+									<div class="media-body user-info">
+										<h5>Desir Digital</h5>
+										<p>Fiverr Client</p>
+									</div>
+								</div>
+							</div>
+							
+						</div>
+						<div class="testimonial-card">
+							<div class="t-text">
+								<br>
+								<br>
+								<br>
+								<p>Very skilled and helpful!!! 
+									<br>
+								Thank you.</p>
+							</div>
+							<div class="client-thumbs mt30">
+								<div class="media v-center">
+									<div class="user-image bdr-radius"><img src="images/client/user.png" alt="girl" class="img-fluid" /></div>
+									<div class="media-body user-info">
+										<h5>jalync</h5>
+										<p>Fiverr Client</p>
+									</div>
+								</div>
+							</div>
+							
+						</div>
+						<div class="testimonial-card">
+							<div class="t-text">
+								<br>
+								<br>
+								<br>
+								<p>Expected delivery in time.!!! 
+									<br>
+								Thank you.</p>
+							</div>
+							<div class="client-thumbs mt30">
+								<div class="media v-center">
+									<div class="user-image bdr-radius"><img src="images/client/user.png" alt="girl" class="img-fluid" /></div>
+									<div class="media-body user-info">
+										<h5>linktoamitgupta</h5>
+										<p>Fiverr Client</p>
+									</div>
+								</div>
+							</div>
+							
+						</div>
+						<div class="testimonial-card">
+							<div class="t-text">
+								<br>
+								<br>
+								<br>
+								<p>kamranansari786 did an aweommse job, will work with him again!!! 
+									<br>
+								Thank you.</p>
+							</div>
+							<div class="client-thumbs mt30">
+								<div class="media v-center">
+									<div class="user-image bdr-radius"><img src="images/client/user.png" alt="girl" class="img-fluid" /></div>
+									<div class="media-body user-info">
+										<h5>yaronfanger</h5>
+										<p>Fiverr Client</p>
+									</div>
+								</div>
+							</div>
+							
 						</div>
 					</div>
 				</div>
