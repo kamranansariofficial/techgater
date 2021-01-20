@@ -83,7 +83,7 @@
               <img src="images/icons/plan-3.svg" alt="Ultimate"/>
               <span class="title">React Dashboard Design</span>
               <p class="title-sub">Great For Large Business</p>
-              <h2><sup>$</sup> 300</h2>
+              <h2><sup>$</sup> 800</h2>
               <p class="duration">Vuetify, VueX, Element, Chart, Firebase</p>
               <div class="details">
                 <ul>
