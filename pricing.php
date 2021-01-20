@@ -41,11 +41,11 @@
               <img src="images/icons/plan-1.svg" alt="Personal"/>
               <span class="title">HTML Website</span>
               <p class="title-sub">Great For Large Business</p>
-              <h2><sup>$</sup> 120</h2>
+              <h2><sup>$</sup> 200</h2>
               <p class="duration">HTML, CSS, BS, JS, Jquery</p>
               <div class="details">
                 <ul>
-                  <li>Datatable & Charts</li>
+                  <li>Landing pages</li>
                   <li>Animations</li>
                   <li>SEO</li>
                   <li>Content Uplaod</li>
@@ -62,7 +62,7 @@
               <img src="images/icons/plan-2.svg" alt="Advance"/>
               <span class="title">React + Next Web App</span>
               <p class="title-sub">Great For Large Business</p>
-              <h2><sup>$</sup> 300</h2>
+              <h2><sup>$</sup> 400</h2>
               <p class="duration">MaterialUI, Axios, Firebase, ReactStrap</p>
               <div class="details">
                 <ul>
@@ -81,7 +81,7 @@
           <div class="pricing-table mt60">
             <div class="inner-table">
               <img src="images/icons/plan-3.svg" alt="Ultimate"/>
-              <span class="title">Vue Web Base App</span>
+              <span class="title">React Dashboard Design</span>
               <p class="title-sub">Great For Large Business</p>
               <h2><sup>$</sup> 300</h2>
               <p class="duration">Vuetify, VueX, Element, Chart, Firebase</p>
