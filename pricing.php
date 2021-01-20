@@ -40,14 +40,14 @@
             <div class="inner-table">
               <img src="images/icons/plan-1.svg" alt="Personal"/>
               <span class="title">HTML Website</span>
-              <p class="title-sub">Great For Large Business</p>
+              <p class="title-sub">Landing Pages</p>
               <h2><sup>$</sup> 200</h2>
-              <p class="duration">HTML, CSS, BS, JS, Jquery</p>
+              <p class="duration">HTML, CSS, BS, JS, Jquery, Bootstrap, Wow Effect</p>
               <div class="details">
                 <ul>
-                  <li>Landing pages</li>
+                  <li>10 Landing pages</li>
                   <li>Animations</li>
-                  <li>SEO</li>
+                  <li>Mobile Responsive</li>
                   <li>Content Uplaod</li>
                   <li>Deploy</li>
                 </ul>
@@ -61,9 +61,9 @@
             <div class="inner-table">
               <img src="images/icons/plan-2.svg" alt="Advance"/>
               <span class="title">React + Next Web App</span>
-              <p class="title-sub">Great For Large Business</p>
+              <p class="title-sub">Landing Pages</p>
               <h2><sup>$</sup> 400</h2>
-              <p class="duration">MaterialUI, Axios, Firebase, ReactStrap</p>
+              <p class="duration">MaterialUI, ANTD, TailwindCSS, Sass/Scss </p>
               <div class="details">
                 <ul>
                   <li>10 Reuseable Components</li>
@@ -81,15 +81,15 @@
           <div class="pricing-table mt60">
             <div class="inner-table">
               <img src="images/icons/plan-3.svg" alt="Ultimate"/>
-              <span class="title">React Dashboard Design</span>
+              <span class="title">React Dashboard </span>
               <p class="title-sub">Great For Large Business</p>
               <h2><sup>$</sup> 800</h2>
-              <p class="duration">Vuetify, VueX, Element, Chart, Firebase</p>
+              <p class="duration">React, Redux, Charts, Material-UI, Firebase</p>
               <div class="details">
                 <ul>
-                  <li>10 Reuseable Components</li>
+                  <li>Auth</li>
                   <li>Api Integration</li>
-                  <li>SEO</li>
+                  <li>Dark Mode Theme</li>
                   <li>DataTables & Charts</li>
                   <li>Deploy</li>
                 </ul>
