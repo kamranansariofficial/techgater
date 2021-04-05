@@ -1,6 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/techgater/public_html/
-    - /bin/cp * $DEPLOYPATH
- 
+    - export DEPLOYPATH=/home/cpanelUser/public_html/
+    - /bin/cp -R * $DEPLOYPATH
