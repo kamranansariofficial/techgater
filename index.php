@@ -37,7 +37,7 @@
 						<p>Techgater is Lahore, Pakistan based software company.
 						We understand, analyze and strategize on the existing and sparse tools/platforms for various aspects of life. Our aim is to bring oneness, and most of all make technology useable by humans, and that does not mean creating beautiful designs alone. </p>
 						<p class="quote">Our aim is to provide best solution for every business and individual to empower the online world.</p>
-						<div class="user- mt30">
+						<!-- <div class="user- mt30">
 							<div class="media">
 								<div class="user-image bdr-radius"><img src="images/team/Ceo and founder techgater Naveed ahmed.jpg" alt=" founder techgater Naveed ahmed" class="img-fluid" /></div>
 								<div class="media-body user-info v-center">
@@ -54,7 +54,7 @@
 									<p>CEO of <span>TECHGATER</span></p>
 								</div>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -621,7 +621,19 @@
 					</div>
 				</div>
 			</div>
-			<div class="row upset shape-bg1 justify-content-center">
+			<div class="row upset shape-bg1 ">
+				<div class="col-lg-4 col-sm-6">
+					<div class="office-card">
+						<div class="skyline-img">
+							<img src="images/banner/london.png" alt="sydney" class="img-fluid" />
+						</div>
+						<div class="office-text text-center">
+							<h4>London</h4>
+							<p class="pr-0">152-160, City Road, Central, London, EC1V 2NX</p>
+							<a href="" target="blank" class="btn-outline">View on Map <i class="fas fa-chevron-right fa-icon"></i></a>
+						</div>
+					</div>
+				</div>
 				<div class="col-lg-4 col-sm-6">
 					<div class="office-card">
 						<div class="skyline-img">
@@ -634,7 +646,20 @@
 						</div>
 					</div>
 				</div>
+				<div class="col-lg-4 col-sm-6">
+					<div class="office-card">
+						<div class="skyline-img">
+							<img src="images/banner/usa.png" alt="sydney" class="img-fluid" />
+						</div>
+						<div class="office-text text-center">
+							<h4>US office</h4>
+							<p class="pr-0">19625 Glen Una Dr., Saratoga, CA 95070</p>
+							<a href="https://goo.gl/maps/NkYiMFD9bXsv2VmY9" target="blank" class="btn-outline">View on Map <i class="fas fa-chevron-right fa-icon"></i></a>
+						</div>
+					</div>
+				</div>	
 			</div>
+			
 		</div>
 	</section>
 	<!--End Location-->
