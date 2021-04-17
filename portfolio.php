@@ -88,6 +88,28 @@
             </div>
           </div>
         </div>
+        <div class="col-lg-8 col-sm-6 single-card-item website">
+          <div class="isotope_item hover-scale">
+            <div class="item-image text-center">
+            <a href="https://app.poolz.finance/lobby"><img src="images/portfolio/poolz.png" alt="image" style="width:65%;padding:40px 0px" class="img-fluid"/> </a>
+            </div>
+            <div class="item-info">
+              <h4><a href="#">Poolz</a></h4>
+              <p>Web Application</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-8 col-sm-6 single-card-item website">
+          <div class="isotope_item hover-scale">
+            <div class="item-image text-center">
+            <a href="https://app.poolz.finance/lobby"><img src="images/portfolio/ipurvey.png" alt="image" style="width:65%;padding:40px 0px" class="img-fluid"/> </a>
+            </div>
+            <div class="item-info">
+              <h4><a href="#">Ipurvey</a></h4>
+              <p>Web Application</p>
+            </div>
+          </div>
+        </div>
         
         <div class="col-lg-4 col-sm-6 single-card-item website">
           <div class="isotope_item hover-scale">

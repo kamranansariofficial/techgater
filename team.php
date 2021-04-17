@@ -90,6 +90,15 @@
         </div>
         <div class="col-lg-3 col-sm-6">
           <div class="full-image-card hover-scale">
+            <div class="image-div"><a href="#"><img src="images/team/team-2.png" alt="co-founder techgater ronny.jpg" class="img-fluid"/></a></div>
+            <div class="info-text-block">
+              <h4><a href="#">Wayne Rooney</a></h4>
+              <p>Co-Founder of Techgater</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="full-image-card hover-scale">
             <div class="image-div"><a href="#"><img src="images/team/co-founder techgater kamran haider ansari .jpg" alt="co-founder techgater kamran haider ansari.jpg" class="img-fluid"/></a></div>
             <div class="info-text-block">
               <h4><a href="#">Kamran Haider</a></h4>
@@ -99,10 +108,19 @@
         </div>
          <div class="col-lg-3 col-sm-6">
           <div class="full-image-card hover-scale">
+            <div class="image-div"><a href="#"><img src="images/team/adam.jpeg" alt="adam" class="img-fluid"/></a></div>
+            <div class="info-text-block">
+              <h4><a href="#">Mr Adam</a></h4>
+              <p>Support & Operations</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="full-image-card hover-scale">
             <div class="image-div"><a href="#"><img src="images/team/front-end web developer techgater husnain akhtar.jpg" alt="front-end web developer techgater husnain akhtar" class="img-fluid"/></a></div>
             <div class="info-text-block">
               <h4><a href="#">Husnain Akhtar</a></h4>
-              <p>Front-end Web Developer</p>
+              <p> Web Application Developer</p>
             </div>
           </div>
         </div>
@@ -111,7 +129,16 @@
             <div class="image-div"><a href="#"><img src="images/team/front-end web developer techgater sanaver shahzad.png" alt="front-end web developer techgater sanaver shahzad" class="img-fluid"/></a></div>
             <div class="info-text-block">
               <h4><a href="#">Sanaver Shahzad</a></h4>
-              <p>Front-end Developer</p>
+              <p> React Developer</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="full-image-card hover-scale">
+            <div class="image-div"><a href="#"><img src="images/team/team-7.png" alt="Graphic Designer" class="img-fluid"/></a></div>
+            <div class="info-text-block">
+              <h4><a href="#">Anna Paul</a></h4>
+              <p>Graphic Designer</p>
             </div>
           </div>
         </div>
@@ -120,7 +147,7 @@
             <div class="image-div"><a href="#"><img src="images/team/front-end web developer techgater asim ameer.png" alt="front-end web developer techgater asim ameer" class="img-fluid"/></a></div>
             <div class="info-text-block">
               <h4><a href="#">Asim Ameer</a></h4>
-              <p>UI/UX Desinger</p>
+              <p>Front-end Developer</p>
             </div>
           </div>
         </div>
