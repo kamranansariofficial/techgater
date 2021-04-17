@@ -691,6 +691,9 @@ padding: 20px;
 border-radius: 8px 40px 8px 0px;
 -webkit-box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071), 0 25px 40px -30px rgba(0, 0, 0, 0.2);
 box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071), 0 25px 40px -30px rgba(0, 0, 0, 0.2);}
+.skyline-img img {
+  height: 235px !important;
+}
 /**scroll to top**/
 #scrollUp {
 bottom: 20px;
