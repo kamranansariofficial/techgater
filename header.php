@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php include "config.php"?>
 <head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,23 +24,23 @@
 		<meta name="twitter:description" content="Techgater is Lahore, Pakistan Based softwere company providing high-end website and web app development services. We build best quality, user-friendly and responsive custom Design Websites & dashboard.">
 
 		<!--website-favicon-->
-		<link rel="icon" type="image/png" href="images/favicon.png">
+		<link rel="icon" type="image/png" href="<?=$base_url?>images/favicon.png">
 		<!--plugin-css-->
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-		<link href="css/owl.carousel.min.css" rel="stylesheet">
+		<link href="<?=$base_url?>css/bootstrap.min.css" rel="stylesheet">
+		<link href="<?=$base_url?>css/owl.carousel.min.css" rel="stylesheet">
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" rel="stylesheet">
 		<!--google-fonts-->
 		<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&amp;family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
 		<!-- template-style-->
-		<link type="text/css" href="css/style.css" rel="stylesheet">
-		<link type="text/css" href="css/responsive.css" rel="stylesheet">
+		<link type="text/css" href="<?=$base_url?>css/style.css" rel="stylesheet">
+		<link type="text/css" href="<?=$base_url?>css/responsive.css" rel="stylesheet">
 	</head>
 	<body>
 		<!--Start Header -->
 		<header class="top-header">
 			<nav class="navbar navbar-expand-lg navbar-light justify-content-right navbar-mobile fixed-top">
 				<div class="container">
-					<a class="navbar-brand font-weight-bold" href="/"> <img src="images/logo.png" width="200px" class="img-fluid"/></a>
+					<a class="navbar-brand font-weight-bold" href="/"> <img src="<?=$base_url?>images/logo.png" width="200px" class="img-fluid"/></a>
 					<button class="navbar-toggler mobile-none" type="button" data-toggle="collapse" data-target="#navbar4" aria-controls="navbar4" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 					<div class="collapse navbar-collapse animate slideIn mobile-none" id="navbar4">
 					<ul class="mr-auto"></ul>
@@ -47,20 +48,24 @@
 						<li class="nav-item dropdown">
 							<a class="nav-link " href="/" id="homepage1" >Home</a>
 						</li>
-						<li class="nav-item"> <a class="nav-link" href="about">About </a> </li>
+						<li class="nav-item"> <a class="nav-link" href="<?=$base_url?>about">About </a> </li>
 						<li class="nav-item dropdown">
-							<a class="nav-link" href="service" id="Services" >Services</a>
+							<a class="nav-link" href="#!" id="Services" >Services <i class="fas fa-chevron-down"></i></a>
+							<ul class="dropdown-menu">
+								<li><a href="<?=$base_url?>service">Web Services</a></li>
+								<li><a href="<?=$base_url?>technology.php">Technology</a></li>
+								</ul>
 						</li>
 						<li class="nav-item dropdown">
-							<a class="nav-link" href="portfolio" id="Services" >Portfolio</a>
+							<a class="nav-link" href="<?=$base_url?>portfolio" id="Services" >Portfolio</a>
 						</li>
 						<li class="nav-item dropdown">
-							<a class="nav-link" href="pricing" id="Pages">Pricing</a>
+							<a class="nav-link" href="<?=$base_url?>pricing" id="Pages">Pricing</a>
 						</li>
 						<li class="nav-item dropdown">
-							<a class="nav-link" href="team" id="Pages">Our Team</a>
+							<a class="nav-link" href="<?=$base_url?>team" id="Pages">Our Team</a>
 						</li>
-						<li class="nav-item"> <a class="nav-link custom-btn lnk btn-main bg-btn" href="get-quote">Get A Quote <span class="circle"></span></a> </li>
+						<li class="nav-item"> <a class="nav-link custom-btn lnk btn-main bg-btn" href="<?=$base_url?>get-quote">Get A Quote <span class="circle"></span></a> </li>
 					</ul>
 				</div>
 				<div class="mobile-menu">
