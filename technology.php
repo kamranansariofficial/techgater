@@ -45,7 +45,7 @@
         <div class="col-lg-6">
           <div class="common-heading">
             <span>Technologies</span>
-            <h2 class="mb30">Front End Technologies</h2>
+            <h2 class="mb30">Front End</h2>
           </div>
         </div>
       </div>
@@ -99,7 +99,7 @@
         </div>
         <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/Sass.png" alt="fontawesome" class="img-fluid"/></div>
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/Sass.png" alt="Sass" class="img-fluid"/></div>
             <h4>SASS</h4>
             <p>Font Awesome is a full suite of pictographic icons for easy scalable vector graphics on websites, created and maintained by Dave Gandy. Stay up to date with the latest release.</p>
            
@@ -123,34 +123,98 @@
       <div class="row justify-content-center">
         <div class="col-lg-6">
           <div class="common-heading">
-            <span>Service</span>
-            <h2 class="mb30">Development Service</h2>
+            <span>Technologies</span>
+            <h2 class="mb30">Web Applications</h2>
           </div>
         </div>
       </div>
       <div class="row upset link-hover">
         <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon"><img src="images/icons/content.svg" alt="service" class="img-fluid"/></div>
-            <h4>Web App Development</h4>
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/react.png" alt="react.js" class="img-fluid"/></div>
+            <h4>React JS</h4>
             <p>Providing high-end website and web app development services. I build best quality, user-friendly and responsive custom Websites and Web Based Applications.</p>
-            <a href="javascript:void(0)">Learn More <i class="fas fa-chevron-right fa-icon"></i></a>
+            
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon"><img src="images/icons/webdevelopment.svg" alt="service" class="img-fluid"/></div>
-            <h4>Website Development</h4>
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/redux.png" alt="redux" class="img-fluid"/></div>
+            <h4>Redux</h4>
             <p>Our web development team creates intuitive user experiences wrapped up in beautiful designs. Everything we create is custom and precisely made to your specification.</p>
-            <a href="javascript:void(0)">Learn More <i class="fas fa-chevron-right fa-icon"></i></a>
+            
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon"><img src="images/icons/app.svg" alt="service" class="img-fluid"/></div>
-            <h4>Mobile app Development</h4>
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/graphql.png" alt="graphql" class="img-fluid"/></div>
+            <h4>GraphQL</h4>
             <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
-            <a href="javascript:void(0)">Learn More <i class="fas fa-chevron-right fa-icon"></i></a>
+            
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/apollo.svg" alt="apollo" class="img-fluid"/></div>
+            <h4>Apollo</h4>
+            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
+            
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/material-ui.png" alt="matrial-ui" class="img-fluid"/></div>
+            <h4>Matrial-Ui</h4>
+            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
+            
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/ant-desgin.png" alt="ant-desgin" class="img-fluid"/></div>
+            <h4>Ant-Desgin</h4>
+            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
+            
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/react-bootstrap.png" alt="react-bootstrap" class="img-fluid"/></div>
+            <h4>React Bootstrap</h4>
+            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
+            
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/Fluentui.png" alt="Fluentui" class="img-fluid"/></div>
+            <h4>Fluent Ui</h4>
+            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
+            
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/headless.png" alt="headless" class="img-fluid"/></div>
+            <h4>Headless Ui</h4>
+            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
+            
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/node-sass.png" alt="node-sass" class="img-fluid"/></div>
+            <h4>Node Sass</h4>
+            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
+            
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/Sass.png" alt="Sass" class="img-fluid"/></div>
+            <h4>SASS</h4>
+            <p>Font Awesome is a full suite of pictographic icons for easy scalable vector graphics on websites, created and maintained by Dave Gandy. Stay up to date with the latest release.</p>
+           
           </div>
         </div>
       </div>
