@@ -50,11 +50,11 @@
 						</li>
 						<li class="nav-item"> <a class="nav-link" href="<?=$base_url?>about">About </a> </li>
 						<li class="nav-item dropdown">
-							<a class="nav-link" href="#!" id="Services" >Services <i class="fas fa-chevron-down"></i></a>
+							<a class="nav-link" href="javascript:void(0)" id="Services" >Services <i class="fas fa-chevron-down"></i></a>
 							<ul class="dropdown-menu">
 								<li><a href="<?=$base_url?>service">Web Services</a></li>
 								<li><a href="<?=$base_url?>technology.php">Technology</a></li>
-								</ul>
+							</ul>
 						</li>
 						<li class="nav-item dropdown">
 							<a class="nav-link" href="<?=$base_url?>portfolio" id="Services" >Portfolio</a>

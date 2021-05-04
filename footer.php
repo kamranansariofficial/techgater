@@ -70,8 +70,7 @@
 						<h5>Support</h5>
 						<ul class="footer-address-list link-hover">
 							<li><a href="get-quote">Contact</a></li>
-							<li><a href="javascript:void(0)">Privacy Policy</a></li>
-							<li><a href="javascript:void(0)">Sitemap</a></li>
+							<li><a href="<?=$base_url?>policy">Privacy Policy</a></li>
 						</ul>
 					</div>
 				</div>
@@ -85,17 +84,14 @@
 						<div class="col-lg-12">
 							<div class="footer-social-media-icons">
 								<a href="https://facebook.com/techgater" target="blank"><i class="fab fa-facebook"></i></a>
-								<a href="javascript:void(0)" target="blank"><i class="fab fa-twitter"></i></a>
+								<a href="https://www.twitter.com/techgter" target="blank"><i class="fab fa-twitter"></i></a>
 								<a href="https://www.instagram.com/techgater" target="blank"><i class="fab fa-instagram"></i></a>
-								<a href="https://www.linkedin.com/in/techgater/" target="blank"><i class="fab fa-linkedin"></i></a>
-								<a href="javascript:void(0)" target="blank"><i class="fab fa-youtube"></i></a>
-								<a href="javascript:void(0)" target="blank"><i class="fab fa-pinterest-p"></i></a>
-								<a href="javascript:void(0)" target="blank"><i class="fab fa-vimeo-v"></i></a>
-								<a href="javascript:void(0)" target="blank"><i class="fab fa-dribbble"></i></a>
-								<a href="javascript:void(0)" target="blank"><i class="fab fa-behance"></i></a>
+								<a href="https://www.linkedin.com/company/techgater-web-solutions" target="blank"><i class="fab fa-linkedin"></i></a>
+								<a href="https://www.youtube.com/channel/UCBvrN6VxtnKNR7oQaYCt2eA" target="blank"><i class="fab fa-youtube"></i></a>
+								<a href="https://www.pinterest.com/techgater/" target="blank"><i class="fab fa-pinterest-p"></i></a>
 							</div>
 							<div class="footer-">
-								<p>Copyright &copy; 2020 Techgater. All rights reserved.</p>
+								<p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Techgater. All rights reserved.</p>
 							</div>
 						</div>
 					</div>
@@ -117,11 +113,23 @@
               <ul class="navbar-nav">
                 <li class="nav-item dropdown">
                   <a class="nav-link" href="/" id="homepage">Home</a>
-                  
                 </li>
                 <li class="nav-item"> <a class="nav-link" href="about">About</a></li>
                 <li class="nav-item dropdown">
-                  <a class="nav-link" href="service" id="Services2" >Services</a>
+					<a class="nav-link" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+						Services
+						<i class="fas fa-chevron-down float-right mt-2"></i>
+					</a>
+					<div class="collapse" id="collapseExample">
+					<ul class="navbar-nav">
+						<li class="nav-item dropdown">
+							<a class="nav-link" href="<?=$base_url?>service">Web Services</a>
+						</li>
+						<li class="nav-item dropdown">
+							<a class="nav-link" href="<?=$base_url?>technology">Technology</a>
+						</li>
+					</ul>
+					</div>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link" href="portfolio" id="Portfolio2">Portfolio</a>
