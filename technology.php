@@ -69,7 +69,7 @@
           <div class="s-block">
             <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/javascript.png" alt="javascript" class="img-fluid"/></div>
             <h4>javascript</h4>
-            <p>javascript is a technique for creating fast and dynamic web pages. javascript allows web pages to be updated asynchronously by exchanging small amounts of data.</p>
+            <p>Javascript is a technique for creating fast and dynamic web pages. javascript allows web pages to be updated asynchronously by exchanging small amounts of data.</p>
            
           </div>
         </div>
@@ -101,7 +101,7 @@
           <div class="s-block">
             <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/Sass.png" alt="Sass" class="img-fluid"/></div>
             <h4>SASS</h4>
-            <p>Font Awesome is a full suite of pictographic icons for easy scalable vector graphics on websites, created and maintained by Dave Gandy. Stay up to date with the latest release.</p>
+            <p>Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.<br><br> </p>
            
           </div>
         </div>
@@ -109,8 +109,21 @@
           <div class="s-block">
             <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/tailwind.png" alt="fontawesome" class="img-fluid"/></div>
             <h4>Tailwind</h4>
-            <p>Font Awesome is a full suite of pictographic icons for easy scalable vector graphics on websites, created and maintained by Dave Gandy. Stay up to date with the latest release.</p>
-           
+            <p>A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/apex-charts.png" alt="fontawesome" class="img-fluid"/></div>
+            <h4>Apex Charts</h4>
+            <p>ApexCharts is a modern charting library that helps developers to create beautiful and interactive visualizations for web pages.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/Chart.js.png" alt="fontawesome" class="img-fluid"/></div>
+            <h4>Charts JS</h4>
+            <p>Charts JS is simple yet flexible JavaScript charting for designers & developers.It's easy to get started with Chart.js. All that's required is the script included in your page.</p>
           </div>
         </div>
       </div>
@@ -133,7 +146,15 @@
           <div class="s-block">
             <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/react.png" alt="react.js" class="img-fluid"/></div>
             <h4>React JS</h4>
-            <p>Providing high-end website and web app development services. I build best quality, user-friendly and responsive custom Websites and Web Based Applications.</p>
+            <p>React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.</p>
+            
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/next-js.png" alt="next.js" class="img-fluid"/></div>
+            <h4>Next JS</h4>
+            <p>Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.</p>
             
           </div>
         </div>
@@ -141,7 +162,7 @@
           <div class="s-block">
             <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/redux.png" alt="redux" class="img-fluid"/></div>
             <h4>Redux</h4>
-            <p>Our web development team creates intuitive user experiences wrapped up in beautiful designs. Everything we create is custom and precisely made to your specification.</p>
+            <p>Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.<br><br><br></p>
             
           </div>
         </div>
@@ -149,7 +170,7 @@
           <div class="s-block">
             <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/graphql.png" alt="graphql" class="img-fluid"/></div>
             <h4>GraphQL</h4>
-            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
+            <p>GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API.</p>
             
           </div>
         </div>
@@ -157,64 +178,50 @@
           <div class="s-block">
             <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/apollo.svg" alt="apollo" class="img-fluid"/></div>
             <h4>Apollo</h4>
-            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
-            
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 mt30">
-          <div class="s-block">
-            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/material-ui.png" alt="matrial-ui" class="img-fluid"/></div>
-            <h4>Matrial-Ui</h4>
-            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
-            
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 mt30">
-          <div class="s-block">
-            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/ant-desgin.png" alt="ant-desgin" class="img-fluid"/></div>
-            <h4>Ant-Desgin</h4>
-            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
-            
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 mt30">
-          <div class="s-block">
-            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/react-bootstrap.png" alt="react-bootstrap" class="img-fluid"/></div>
-            <h4>React Bootstrap</h4>
-            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
-            
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 mt30">
-          <div class="s-block">
-            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/Fluentui.png" alt="Fluentui" class="img-fluid"/></div>
-            <h4>Fluent Ui</h4>
-            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
-            
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 mt30">
-          <div class="s-block">
-            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/headless.png" alt="headless" class="img-fluid"/></div>
-            <h4>Headless Ui</h4>
-            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
-            
+            <p>Simplify app development by combining APIs, databases, and microservices into a single data graph that you can query with GraphQL.<br><br></p>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
             <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/node-sass.png" alt="node-sass" class="img-fluid"/></div>
             <h4>Node Sass</h4>
-            <p>We help keep your apps updated and their features updated. We can wrangle the messiest legacy code, bring it in line with standards, and keep it functional, fast, and secure.</p>
-            
+            <p>Node-sass is a library that provides binding for Node.js to LibSass, the C version of the popular stylesheet preprocessor.<br><br></p>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/Sass.png" alt="Sass" class="img-fluid"/></div>
-            <h4>SASS</h4>
-            <p>Font Awesome is a full suite of pictographic icons for easy scalable vector graphics on websites, created and maintained by Dave Gandy. Stay up to date with the latest release.</p>
-           
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/material-ui.png" alt="matrial-ui" class="img-fluid"/></div>
+            <h4>Matrial-Ui</h4>
+            <p>React components for faster and easier web development. Build your own design system, or start with Material Design.<br><br></p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/ant-desgin.png" alt="ant-desgin" class="img-fluid"/></div>
+            <h4>Ant-Desgin</h4>
+            <p>A design system for enterprise-level products. Create an efficient and enjoyable work experience.<br><br></p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/react-bootstrap.png" alt="react-bootstrap" class="img-fluid"/></div>
+            <h4>React Bootstrap</h4>
+            <p>React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built without unneeded dependencies like jQuery.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/Fluentui.png" alt="Fluentui" class="img-fluid"/></div>
+            <h4>Fluent UI</h4>
+            <p>Fluent is an open-source, cross-platform design system that gives engaging product experiences—accessibility, internationalization, and performance included.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30">
+          <div class="s-block">
+            <div class="s-card-icon w-50"><img src="<?=$base_url?>images/technologies/headless.png" alt="headless" class="img-fluid"/></div>
+            <h4>Headless UI</h4>
+            <p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.<br><br><br></p>
+            
           </div>
         </div>
       </div>

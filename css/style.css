@@ -432,6 +432,7 @@ background-size: 180px;
 background-position: top right;
 background-repeat: no-repeat;}
 .s-card-icon {  width: 80px;    margin: 0 auto 30px;}
+.s-card-icon img{ height:100px; object-fit: contain;}
 .s-block h4 {       margin: 0 0 10px 0;}
 .s-block a{ display: inline-block;    margin: 30px 0 0 0;    color: #050748;    font-family: 'Poppins', sans-serif;}
 .upset{position:relative;z-index:5}
