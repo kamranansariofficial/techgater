@@ -7,7 +7,7 @@
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="mobile-web-app-capable" content="yes">
 		<title>Techgater - Web Design &amp; Development Agency</title>
-		<base href="https://techgater.com/">
+		<!-- <base href="https://techgater.com/"> -->
 		<meta name="msvalidate.01" content="0C312F1E2E203F1B104B546B6682F9ED" />
 		<meta name="title" content="Techgater is Lahore, Pakistan based softwere company">
 		<meta name="author" content="Techgater">
@@ -46,7 +46,7 @@
 					<ul class="mr-auto"></ul>
 					<ul class="navbar-nav d-menu">
 						<li class="nav-item dropdown">
-							<a class="nav-link " href="/" id="homepage1" >Home</a>
+							<a class="nav-link " href="/techgater" id="homepage1" >Home</a>
 						</li>
 						<li class="nav-item"> <a class="nav-link" href="<?=$base_url?>about">About </a> </li>
 						<li class="nav-item dropdown">

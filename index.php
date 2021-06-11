@@ -200,15 +200,15 @@
 				<div class="col-lg-8 col-sm-8 mt60">
 					<div class="isotope_item hover-scale">
 						<div class="item-image">
-							<a href="https://www.amygoz.com/" target="_blank"><img src="images/portfolio/techgater amygos callitme amygos.com.png" alt="techgater amygos callitme amygos" class="img-fluid" /> </a>
+							<a href="https://www.amygoz.com/" target="_blank"><img src="images/portfolio/suregifts admin panel .png" alt="techgater amygos callitme amygos" class="img-fluid" /> </a>
 						</div>
 						<div class="item-info">
-							<h4><a href="https://www.amygoz.com/" target="_blank">Amygoz</a></h4>
+							<h4><a href="https://www.amygoz.com/" target="_blank">Suregifts</a></h4>
 							<p>Website Development</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-4 mt60">
+				<!-- <div class="col-lg-4 col-sm-4 mt60">
 					<div class="isotope_item hover-scale">
 						<div class="item-image">
 							<a href="https://mobile.nepalivivah.com/#/" target="_blank"><img src="images/portfolio/techgater lahore pakistan nepalivivah .png" alt="techgater lahore pakistan nepalivivah" class="img-fluid" /> </a>
@@ -218,7 +218,7 @@
 							<p>Web Application</p>
 						</div>
 					</div>
-				</div>
+				</div> -->
 				<div class="col-lg-4 col-sm-4 mt60">
 					<div class="isotope_item hover-scale">
 						<div class="item-image">
@@ -233,15 +233,38 @@
 				<div class="col-lg-8 col-sm-8 mt60">
 					<div class="isotope_item hover-scale">
 						<div class="item-image">
-							<a href="http://sportido.techgater.com/" target="_blank"><img src="images/portfolio/techgater softwere lahore sportido.png" alt="techgater softwere lahore sportido" class="img-fluid" /> </a>
+							<a href="http://worldbigroup.com/" target="_blank"><img src="images/portfolio/world bi group.png" alt="techgater softwere lahore sportido" class="img-fluid" /> </a>
 						</div>
 						<div class="item-info">
-							<h4><a href="http://sportido.techgater.com/" target="_blank">Sportido Admin Dashboard</a></h4>
+							<h4><a href="http://worldbigroup.com/" target="_blank">World BI</a></h4>
+							<p>Web Application</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-4 mt60">
+					<div class="isotope_item hover-scale">
+						<div class="item-image">
+							<a href="https://presshog.com/" target="_blank"><img src="images/portfolio/presshog a admin panel.png" alt="techgater lahore softwere spatay" class="img-fluid" /> </a>
+						</div>
+						<div class="item-info">
+							<h4><a href="https://presshog.com/" target="_blank">Presshog</a></h4>
+							<p>Web Application</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-8 col-sm-8 mt60">
+					<div class="isotope_item hover-scale">
+						<div class="item-image">
+							<a href="http://magentoassist.nl/" target="_blank"><img src="images/portfolio/magentoassist .png" alt="techgater softwere lahore sportido" class="img-fluid" /> </a>
+						</div>
+						<div class="item-info">
+							<h4><a href="http://magentoassist.nl/" target="_blank">magentoassist.nl</a></h4>
 							<p>Web Application</p>
 						</div>
 					</div>
 				</div>
 			</div>
+			
 		</div>
 	</section>
 	<!--End Portfolio-->
@@ -256,15 +279,13 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row justify-content-center">
 				<div class="col-lg-12">
 					<div class="row opl">
 						<ul>
+							  
 							<li>
-								<div class="clients-logo"><img src="images/portfolio/nepalivivah.png" width="120px" alt="nepalivivah techgater" class="img-fluid" /></div>
-							</li>
-							<li>
-								<div class="clients-logo"><img src="images/portfolio/amygoz.png" alt="amygoz techgater" class="img-fluid" /></div>
+								<div class="clients-logo"><img src="images/portfolio/suregifts.svg" alt="amygoz techgater" class="img-fluid" /></div>
 							</li>
 							<li>
 								<div class="clients-logo"><img src="images/portfolio/spatay.png" alt="spatay techgater" class="img-fluid" /></div>
@@ -274,6 +295,9 @@
 							</li>
 							<li>
 								<div class="clients-logo"><img src="images/portfolio/wattba.png" alt="wattba techgater" class="img-fluid" /></div>
+							</li>
+							<li>
+								<div class="clients-logo"><img src="images/portfolio/magentoassistlogo.png"  alt="nepalivivah techgater" class="img-fluid" /></div>
 							</li>
 						</ul>
 					</div>
@@ -404,14 +428,15 @@
 								<br>
 								<br>
 								<br>
-								<p>Kamran did a great job in converting XD files to HTML and integrating them on the PHP website. Great freelancer.</p>
+								<p>Seller was very dedicated to client satisfaction..</p>
 							</div>
 							<div class="client-thumbs mt30">
 								<div class="media v-center">
-									<div class="user-image bdr-radius"><img src="images/client/client2.jpg" alt="girl" class="img-fluid" /></div>
+									<div class="user-image bdr-radius"><img src="images/client/user.png" alt="girl" class="img-fluid" /></div>
 									<div class="media-body user-info">
-										<h5>Ash Shrivastav</h5>
-										<p>CEO of Nepaliviah & Amygos, <small>New York, US</small></p>
+										<h5>urinche</h5>
+
+										<p>Jamaicas</p>
 									</div>
 								</div>
 							</div>
@@ -551,7 +576,7 @@
 								<br>
 								<br>
 								<br>
-								<p>kamranansari786 did an aweommse job, will work with him again!!! 
+								<p>Seamless and just what I ordered. He is great and will recommend to anyone!!! 
 									<br>
 								Thank you.</p>
 							</div>
@@ -559,8 +584,9 @@
 								<div class="media v-center">
 									<div class="user-image bdr-radius"><img src="images/client/user.png" alt="girl" class="img-fluid" /></div>
 									<div class="media-body user-info">
-										<h5>yaronfanger</h5>
-										<p>Fiverr Client</p>
+										<h5>belfairjames</h5>
+
+										<p>Upwork client</p>
 									</div>
 								</div>
 							</div>

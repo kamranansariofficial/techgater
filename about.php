@@ -36,7 +36,7 @@
           <div class="common-heading text-l ">
             <span>About Us</span>
             <h2>About Agency</h2>
-            <p>Techgater is Lahore, Pakistan based softwere company. SE Software Technologies comprises a team of experienced  Web Developers, Graphic Designers, Web Engineers and Testing personnel working around the globe in different time zones to keep supporting you 24 hrs. Our sophisticated Web development and Business Solutions bring you peace of mind while we handle everything for you using our client-focused solutions and Services. We value the uniqueness of your business needs and tailor our services according to your specific objectives.</p>
+            <p>Techgater is Lahore, Pakistan based software company. SE Software Technologies comprises a team of experienced  Web Developers, Graphic Designers, Web Engineers and Testing personnel working around the globe in different time zones to keep supporting you 24 hrs. Our sophisticated Web development and Business Solutions bring you peace of mind while we handle everything for you using our client-focused solutions and Services. We value the uniqueness of your business needs and tailor our services according to your specific objectives.</p>
             <p>We understand, analyze and strategize on the existing and sparse tools/platforms for various aspects of life. Our aim is to bring oneness, and most of all make technology useable by humans, and that does not mean creating beautiful designs alone.</p>
           </div>
           <div class="row in-stats small about-statistics">

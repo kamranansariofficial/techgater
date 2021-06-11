@@ -125,15 +125,38 @@
         <div class="col-lg-8 col-sm-6 single-card-item website">
           <div class="isotope_item hover-scale">
             <div class="item-image">
-              <a href="#"><img src="images/portfolio/techgater softwere lahore sportido.png" alt="image" class="img-fluid"/> </a>
+              <a href="#"><img src="images/portfolio/world bi group.png" alt="image" class="img-fluid"/> </a>
             </div>
             <div class="item-info">
-              <h4><a href="#">Packaging Design</a></h4>
-              <p>Graphic, Print</p>
+              <h4><a href="#">World BI</a></h4>
+              <p>Web Application</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6 single-card-item website">
+        <div class="col-lg-8 col-sm-6 single-card-item website">
+          <div class="isotope_item hover-scale">
+            <div class="item-image">
+              <a href="#"><img src="images/portfolio/suregifts admin panel .png" alt="image" class="img-fluid"/> </a>
+            </div>
+            <div class="item-info">
+              <h4><a href="#">Packaging Design</a></h4>
+              <p>Web Application</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-8 col-sm-6 single-card-item website">
+          <div class="isotope_item hover-scale">
+            <div class="item-image">
+              <a href="#"><img src="images/portfolio/magentoassist .png" alt="image" class="img-fluid"/> </a>
+            </div>
+            <div class="item-info">
+              <h4><a href="http://magentoassist.nl/">magentoassist</a></h4>
+              <p>Web Application</p>
+            </div>
+          </div>
+        </div>
+</div>
+        <!-- <div class="col-lg-4 col-sm-6 single-card-item website">
           <div class="isotope_item hover-scale">
             <div class="item-image">
               <a href="#"><img src="images/portfolio/techgater lahore pakistan nepalivivah .png" alt="image" class="img-fluid"/> </a>
@@ -143,11 +166,11 @@
               <p>Android App</p>
             </div>
           </div>
-        </div>
+        </div> 
         <div class="col-lg-8 col-sm-6 single-card-item  website">
           <div class="isotope_item hover-scale">
             <div class="item-image">
-              <a href="#"><img src="images/portfolio/techgater amygos callitme amygos.com.png" alt="image" class="img-fluid"/> </a>
+              <a href="#"><img src="images/portfolio/suregifts admin panel .png" alt="image" class="img-fluid"/> </a>
             </div>
             <div class="item-info">
               <h4><a href="#">Portfolio Website</a></h4>

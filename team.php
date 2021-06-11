@@ -108,7 +108,7 @@
         </div>
          <div class="col-lg-3 col-sm-6">
           <div class="full-image-card hover-scale">
-            <div class="image-div"><a href="#"><img src="images/team/adam.jpeg" alt="adam" class="img-fluid"/></a></div>
+            <div class="image-div"><a href="#"><img src="images/team/adam.jpg" alt="adam" class="img-fluid"/></a></div>
             <div class="info-text-block">
               <h4><a href="#">Mr Adam</a></h4>
               <p>Support & Operations</p>
@@ -124,15 +124,15 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-sm-6">
+         <div class="col-lg-3 col-sm-6">
           <div class="full-image-card hover-scale">
-            <div class="image-div"><a href="#"><img src="images/team/front-end web developer techgater sanaver shahzad.png" alt="front-end web developer techgater sanaver shahzad" class="img-fluid"/></a></div>
+            <div class="image-div"><a href="#"><img src="images/team/mohsindawood.jpg" alt="front-end web developer techgater sanaver shahzad" class="img-fluid"/></a></div>
             <div class="info-text-block">
-              <h4><a href="#">Sanaver Shahzad</a></h4>
-              <p> React Developer</p>
+              <h4><a href="#">Mohsin Dawood</a></h4>
+              <p> Front-end developer</p>
             </div>
           </div>
-        </div>
+        </div> 
         <div class="col-lg-3 col-sm-6">
           <div class="full-image-card hover-scale">
             <div class="image-div"><a href="#"><img src="images/team/team-7.png" alt="Graphic Designer" class="img-fluid"/></a></div>
@@ -142,14 +142,14 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-sm-6">
+         <div class="col-lg-3 col-sm-6">
           <div class="full-image-card hover-scale">
-            <div class="image-div"><a href="#"><img src="images/team/front-end web developer techgater asim ameer.png" alt="front-end web developer techgater asim ameer" class="img-fluid"/></a></div>
+            <div class="image-div"><a href="#"><img src="images/team/zayn abbas frontend developer .jpg" alt="front-end web developer techgater asim ameer" class="img-fluid"/></a></div>
             <div class="info-text-block">
-              <h4><a href="#">Asim Ameer</a></h4>
+              <h4><a href="#">Zayn Abbas</a></h4>
               <p>Front-end Developer</p>
             </div>
-          </div>
+          </div> 
         </div>
         <div class="col-lg-3 col-sm-6">
           <div class="full-image-card hover-scale">
